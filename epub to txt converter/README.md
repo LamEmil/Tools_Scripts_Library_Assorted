@@ -28,7 +28,7 @@ To run this script, you will need:
     ```bash
     pip install ebooklib beautifulsoup4
     ```
-3.  **Download the script** (e.g., `epub_converter.py`) and save it to your desired location.
+3.  **Download the script** and save it to your desired location.
 
 ## Usage
 
