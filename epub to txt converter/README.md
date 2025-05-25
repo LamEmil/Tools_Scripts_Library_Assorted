@@ -35,4 +35,4 @@ To run this script, you will need:
 Run the script from your terminal using the following command structure:
 
 ```bash
-python epub_converter.py <input_epub_file_path> <output_txt_file_path>
+python epubconvert.py <input_epub_file_path> <output_txt_file_path>
