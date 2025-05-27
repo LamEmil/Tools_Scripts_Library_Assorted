@@ -15,7 +15,7 @@ This Python script uses the Ollama API with a multimodal model (specifically `ll
 ## Prerequisites
 
 1.  **Python 3.x:** Ensure you have Python 3 installed.
-2.  **Ollama:** You need Ollama running on your system. You can download it from [ollama.ai](https://ollama.ai/).
+2.  **Ollama:** You need Ollama running on your system. You can download it from [ollama.ai](https://ollama.com/).
 3.  **Llava Model:** The script is configured to use the `llava:latest` model. You need to have this model pulled in your Ollama instance. If not, run:
     ```bash
     ollama pull llava:latest
