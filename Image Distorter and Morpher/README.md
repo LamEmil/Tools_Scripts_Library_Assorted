@@ -23,4 +23,4 @@ A Python GUI application for creating video effects. This tool can apply procedu
 Open your terminal and run the script:
 
 ```bash
-python wave2.py
+python Image_Distorter_and_Morpher.py
